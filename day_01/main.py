@@ -30,5 +30,6 @@ def main():
     result = calc_sum_max_3_cal(data)
     print(result)
 
+
 if __name__ == "__main__":
     main()
